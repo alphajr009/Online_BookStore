@@ -1,0 +1,130 @@
+.chekout-box {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+    height: auto;
+    padding-top: 17px;
+    padding-left: 36px;
+    padding-right: 60px;
+    border-radius: 17px;
+    box-shadow: 0 0 3px 3px #dad9d9;
+    margin-top: 3%;
+}
+
+.od-buttons {
+    display: flex;
+    flex-direction: row;
+    margin-left: 16%;
+    gap: 36%;
+    margin-top: 100px;
+}
+
+
+.od-btn1 {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+
+.od-btn2 {
+    background-color: #9b1f1f;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 12px;
+    cursor: pointer;
+}
+
+.cart-page1 {
+    margin-top: 20px;
+    margin-bottom: 60px;
+}
+
+.od-detailsall {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 0px;
+    gap: 10%;
+    margin-left: 2%;
+    width: auto;
+
+}
+
+.od-details1 h3 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #7c7e81;
+}
+
+.od-details1 h2 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #000000;
+}
+
+.od-details2 h3 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #7c7e81;
+}
+
+.od-details2 h2 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #000000;
+}
+
+
+.od-details3 h3 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #7c7e81;
+}
+
+.od-details3 h2 {
+    font-weight: 400;
+    font-size: 16px;
+    margin-left: 2%;
+    color: #000000;
+}
+
+
+.od-details1 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    margin-left: 10px;
+}
+
+
+.od-details2 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+    margin-left: 100px;
+
+}
+
+.od-details3 {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin-left: 50px;
+}

@@ -1,0 +1,28 @@
+.od-details0 h5 {
+    margin-bottom: 25px;
+    font-size: medium;
+}
+
+.od-details0 h4 {
+    margin-bottom: 16px;
+}
+
+.od-details1 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+}
+
+
+.od-details2 {
+    display: flex;
+    flex-direction: column;
+    width: 100px;
+
+}
+
+.od-details3 {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+}
